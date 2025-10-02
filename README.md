@@ -1,6 +1,6 @@
 
 ## Hi there 👋 I'm Thanasis
-I'm a Lead Web Developer based in the UK.
+### I'm a Lead Web Developer based in the UK.
 
 Over the past few years, I’ve gone from Web Developer to Lead, working on front-end development, performance optimisation, and mentoring developers. I enjoy turning designs into accessible, responsive, and scalable components.
 
