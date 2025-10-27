@@ -1,10 +1,10 @@
 
-## Hi there 👋 I'm Thanasis
-### I'm a Lead Web Developer based in the UK.
+## Hi I'm Thanasis(Theo)
+### I'm a Lead Web Developer based north of London.
 
 Over the past few years, I’ve gone from Web Developer to Lead, working on front-end development, performance optimisation, and mentoring developers. I enjoy turning designs into accessible, responsive, and scalable components.
 
-These days, I’m leading web projects at the University of Hertfordshire & focusing on my own project to expand my portfolio.
+These days, I’m leading web projects at the University of Hertfordshire & focusing on my own projects to expand my portfolio.
 
 ### ⚙️ Currently working with...
 
@@ -16,11 +16,11 @@ These days, I’m leading web projects at the University of Hertfordshire & focu
 <a href="" target="_blank" title="Git" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
 
-### 🔭 I’m currently working on...
+### I’m currently working on...
 - Building reusable components with JSON & vanilla JS
 - Improving accessibility & performance across large-scale sites
-- Exploring React/Next.js to grow my modern front-end skills
+- Creating sites using React/Typescript/Vite to grow my modern front-end skills
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thanasis-theodorou-cy/)  
-😄 Pronouns: He/Him  
-⚡ Fun fact: I’m a big fan of co-op games like Helldivers 2 and Monster Hunter: World 🎮 
+How to reach me: [LinkedIn](https://www.linkedin.com/in/thanasis-theodorou-cy/)  
+Pronouns: He/Him  
+Fun fact: I’m a big fan of co-op games like Helldivers 2, Fortnite, The Finals. Love gaming, love it even more when i get to play with my friends :) 
