@@ -1,10 +1,12 @@
 
 ## Hi I'm Thanasis(Theo)
-### I'm a Lead Web Developer based north of London.
+### I'm a Web Developer based north of London.
 
-Over the past few years, I’ve gone from Web Developer to Lead, working on front-end development, performance optimisation, and mentoring developers. I enjoy turning designs into accessible, responsive, and scalable components.
+Over the past few years, I’ve been working as a Web Developer at the University of Herts, working primarily on front-end development, performance optimisation, and learning JavaScript. I enjoy turning designs into accessible, responsive, and scalable components.
 
 These days, I’m leading web projects at the University of Hertfordshire & focusing on my own projects to expand my portfolio.
+
+As I am still very new to my carreer I am always learning.
 
 ### ⚙️ Currently working with...
 
@@ -17,6 +19,7 @@ These days, I’m leading web projects at the University of Hertfordshire & focu
 <a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
 
 ### I’m currently working on...
+- Learning JavaScript and JSON schema
 - Building reusable components with JSON & vanilla JS
 - Improving accessibility & performance across large-scale sites
 - Creating sites using React/Typescript/Vite to grow my modern front-end skills
