@@ -2,9 +2,9 @@
 ## Hi I'm Thanasis(Theo)
 ### I'm a Web Developer based north of London.
 
-Over the past few years, I’ve been working as a Web Developer at the University of Herts, working primarily on front-end development, performance optimisation, and learning JavaScript. I enjoy turning designs into accessible, responsive, and scalable components.
+Over the past few years, I’ve been working as a Web Developer at the University of Herts, working primarily on front-end development, performance optimisation, and learning JavaScript. I enjoy turning ideas into responsive, user-friendly experiences.
 
-These days, I’m leading web projects at the University of Hertfordshire & focusing on my own projects to expand my portfolio.
+These days, I’m a Senior Front-end Developer at QMUL and focusing on my own projects to expand my portfolio.
 
 As I am still very new to my carreer I am always learning.
 
